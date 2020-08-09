@@ -1,0 +1,196 @@
+4Ha1 D C has no label.
+ Volume Serial Number is 26FE-D971
+
+ Directory of C:\Users\user\Documents\Projet develop Peter&Maurits van Heel 2IRB1
+
+08/05/2020  04:11 PM    <DIR>          .
+08/05/2020  04:11 PM    <DIR>          ..
+08/06/2020  08:09 PM    <DIR>          .idea
+08/04/2020  09:10 PM                16 Mdecrypt-iv.bin
+08/04/2020  09:11 PM                16 Mdecrypt-key.bin
+08/04/2020  09:08 PM                16 mencrypt-iv.bin
+08/04/2020  09:08 PM                16 Mencrypt-key.bin
+08/05/2020  04:11 PM             3,941 Projet_Janvier_Malware.py
+08/04/2020  12:55 PM    <DIR>          venv
+               5 File(s)          4,005 bytes
+               4 Dir(s)  29,251,268,608 bytes free
+F^PBNfAions
+
+  Proto  Local Address          Foreign Address        State
+  TCP    127.0.0.1:49865        MALWARE:49866          ESTABLISHED
+  TCP    127.0.0.1:49866        MALWARE:49865          ESTABLISHED
+  TCP    127.0.0.1:49867        MALWARE:49868          ESTABLISHED
+  TCP    127.0.0.1:49868        MALWARE:49867          ESTABLISHED
+  TCP    127.0.0.1:49869        MALWARE:49870          ESTABLISHED
+  TCP    127.0.0.1:49870        MALWARE:49869          ESTABLISHED
+  TCP    192.168.0.28:49964     40.67.251.132:https    ESTABLISHED
+  TCP    192.168.0.28:50900     CLIENT:51215           ESTABLISHED
+4Ha1 D C has no label.
+ Volume Serial Number is 26FE-D971
+
+ Directory of C:\
+
+08/03/2020  06:13 PM    <DIR>          PerfLogs
+08/03/2020  04:55 AM    <DIR>          Program Files
+08/02/2020  11:42 AM    <DIR>          Program Files (x86)
+08/02/2020  11:38 AM    <DIR>          Users
+08/05/2020  01:38 PM    <DIR>          Windows
+               0 File(s)              0 bytes
+               5 Dir(s)  29,162,205,184 bytes free
+4Ha1 D C has no label.
+ Volume Serial Number is 26FE-D971
+
+ Directory of C:\Users\user\Documents
+
+08/04/2020  12:26 PM    <DIR>          .
+08/04/2020  12:26 PM    <DIR>          ..
+08/08/2020  07:06 PM    <DIR>          Projet develop Peter&Maurits van Heel 2IRB1
+08/02/2020  11:50 AM           303,389 Projet develop Peter&Maurits van Heel 2IRB1.zip
+               1 File(s)        303,389 bytes
+               3 Dir(s)  29,162,008,576 bytes free
+4Ha1 D C has no label.
+ Volume Serial Number is 26FE-D971
+
+ Directory of C:\Users\user\Documents\Projet develop Peter&Maurits van Heel 2IRB1
+
+08/08/2020  07:43 PM    <DIR>          .
+08/08/2020  07:43 PM    <DIR>          ..
+08/08/2020  07:43 PM    <DIR>          .idea
+08/04/2020  09:10 PM                16 Mdecrypt-iv.bin
+08/04/2020  09:11 PM                16 Mdecrypt-key.bin
+08/04/2020  09:08 PM                16 mencrypt-iv.bin
+08/04/2020  09:08 PM                16 Mencrypt-key.bin
+08/08/2020  07:43 PM             3,606 Projet_Janvier_Malware.py
+08/04/2020  12:55 PM    <DIR>          venv
+08/08/2020  07:43 PM    <DIR>          __pycache__
+               5 File(s)          3,670 bytes
+               5 Dir(s)  29,164,257,280 bytes free
+4Ha1 D C has no label.
+ Volume Serial Number is 26FE-D971
+
+ Directory of C:\Users\user\Documents
+
+08/04/2020  12:26 PM    <DIR>          .
+08/04/2020  12:26 PM    <DIR>          ..
+08/08/2020  07:43 PM    <DIR>          Projet develop Peter&Maurits van Heel 2IRB1
+08/02/2020  11:50 AM           303,389 Projet develop Peter&Maurits van Heel 2IRB1.zip
+               1 File(s)        303,389 bytes
+               3 Dir(s)  29,164,257,280 bytes free
+4Ha1 D C has no label.
+ Volume Serial Number is 26FE-D971
+
+ Directory of C:\Users\user
+
+08/06/2020  09:41 PM    <DIR>          .
+08/06/2020  09:41 PM    <DIR>          ..
+08/06/2020  09:41 PM    <DIR>          .idlerc
+08/04/2020  12:26 PM    <DIR>          3D Objects
+08/04/2020  12:26 PM    <DIR>          Contacts
+08/04/2020  12:26 PM    <DIR>          Desktop
+08/04/2020  12:26 PM    <DIR>          Documents
+08/04/2020  12:26 PM    <DIR>          Downloads
+08/04/2020  12:26 PM    <DIR>          Favorites
+08/04/2020  12:26 PM    <DIR>          Links
+08/04/2020  12:26 PM    <DIR>          Music
+08/08/2020  06:47 PM    <DIR>          OneDrive
+08/04/2020  12:26 PM    <DIR>          Pictures
+08/04/2020  12:26 PM    <DIR>          Saved Games
+08/04/2020  12:26 PM    <DIR>          Searches
+08/04/2020  12:27 PM    <DIR>          Videos
+               0 File(s)              0 bytes
+              16 Dir(s)  29,164,257,280 bytes free
+4Ha1 D C has no label.
+ Volume Serial Number is 26FE-D971
+
+ Directory of C:\Users\user
+
+08/06/2020  09:41 PM    <DIR>          .
+08/06/2020  09:41 PM    <DIR>          ..
+08/06/2020  09:41 PM    <DIR>          .idlerc
+08/04/2020  12:26 PM    <DIR>          3D Objects
+08/04/2020  12:26 PM    <DIR>          Contacts
+08/04/2020  12:26 PM    <DIR>          Desktop
+08/04/2020  12:26 PM    <DIR>          Documents
+08/04/2020  12:26 PM    <DIR>          Downloads
+08/04/2020  12:26 PM    <DIR>          Favorites
+08/04/2020  12:26 PM    <DIR>          Links
+08/04/2020  12:26 PM    <DIR>          Music
+08/08/2020  06:47 PM    <DIR>          OneDrive
+08/04/2020  12:26 PM    <DIR>          Pictures
+08/04/2020  12:26 PM    <DIR>          Saved Games
+08/04/2020  12:26 PM    <DIR>          Searches
+08/04/2020  12:27 PM    <DIR>          Videos
+               0 File(s)              0 bytes
+              16 Dir(s)  29,164,257,280 bytes free
+4Ha1 D C has no label.
+ Volume Serial Number is 26FE-D971
+
+ Directory of C:\Users\user
+
+08/06/2020  09:41 PM    <DIR>          .
+08/06/2020  09:41 PM    <DIR>          ..
+08/06/2020  09:41 PM    <DIR>          .idlerc
+08/04/2020  12:26 PM    <DIR>          3D Objects
+08/04/2020  12:26 PM    <DIR>          Contacts
+08/04/2020  12:26 PM    <DIR>          Desktop
+08/04/2020  12:26 PM    <DIR>          Documents
+08/04/2020  12:26 PM    <DIR>          Downloads
+08/04/2020  12:26 PM    <DIR>          Favorites
+08/04/2020  12:26 PM    <DIR>          Links
+08/04/2020  12:26 PM    <DIR>          Music
+08/08/2020  06:47 PM    <DIR>          OneDrive
+08/04/2020  12:26 PM    <DIR>          Pictures
+08/04/2020  12:26 PM    <DIR>          Saved Games
+08/04/2020  12:26 PM    <DIR>          Searches
+08/04/2020  12:27 PM    <DIR>          Videos
+               0 File(s)              0 bytes
+              16 Dir(s)  29,162,881,024 bytes free
+4Ha1 D C has no label.
+ Volume Serial Number is 26FE-D971
+
+ Directory of C:\Users\user
+
+08/06/2020  09:41 PM    <DIR>          .
+08/06/2020  09:41 PM    <DIR>          ..
+08/06/2020  09:41 PM    <DIR>          .idlerc
+08/04/2020  12:26 PM    <DIR>          3D Objects
+08/04/2020  12:26 PM    <DIR>          Contacts
+08/04/2020  12:26 PM    <DIR>          Desktop
+08/04/2020  12:26 PM    <DIR>          Documents
+08/04/2020  12:26 PM    <DIR>          Downloads
+08/04/2020  12:26 PM    <DIR>          Favorites
+08/04/2020  12:26 PM    <DIR>          Links
+08/04/2020  12:26 PM    <DIR>          Music
+08/08/2020  06:47 PM    <DIR>          OneDrive
+08/04/2020  12:26 PM    <DIR>          Pictures
+08/04/2020  12:26 PM    <DIR>          Saved Games
+08/04/2020  12:26 PM    <DIR>          Searches
+08/04/2020  12:27 PM    <DIR>          Videos
+               0 File(s)              0 bytes
+              16 Dir(s)  29,175,209,984 bytes free
+4Ha1 D C has no label.
+ Volume Serial Number is 26FE-D971
+
+ Directory of C:\Users\user
+
+08/06/2020  09:41 PM    <DIR>          .
+08/06/2020  09:41 PM    <DIR>          ..
+08/06/2020  09:41 PM    <DIR>          .idlerc
+08/04/2020  12:26 PM    <DIR>          3D Objects
+08/04/2020  12:26 PM    <DIR>          Contacts
+08/04/2020  12:26 PM    <DIR>          Desktop
+08/04/2020  12:26 PM    <DIR>          Documents
+08/04/2020  12:26 PM    <DIR>          Downloads
+08/04/2020  12:26 PM    <DIR>          Favorites
+08/04/2020  12:26 PM    <DIR>          Links
+08/04/2020  12:26 PM    <DIR>          Music
+08/08/2020  06:47 PM    <DIR>          OneDrive
+08/04/2020  12:26 PM    <DIR>          Pictures
+08/04/2020  12:26 PM    <DIR>          Saved Games
+08/04/2020  12:26 PM    <DIR>          Searches
+08/04/2020  12:27 PM    <DIR>          Videos
+               0 File(s)              0 bytes
+              16 Dir(s)  29,174,620,160 bytes free
+3(>=N`odot recognized as an internal or external command,
+operable program or batch file.
+C:\
